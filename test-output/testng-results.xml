@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T19:43:17 PST" name="Default suite" finished-at="2024-01-28T19:43:19 PST" duration-ms="1730">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T19:43:17 PST" name="Default test" finished-at="2024-01-28T19:43:19 PST" duration-ms="1730">
+      <class name="com.herokuapp.restfulbooker.createBookingTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.herokuapp.restfulbooker.createBookingTests@4a94ee4]" started-at="2024-01-28T19:43:17 PST" name="setup" finished-at="2024-01-28T19:43:17 PST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createBookingPOJOTest()[pri:0, instance:com.herokuapp.restfulbooker.createBookingTests@4a94ee4]" started-at="2024-01-28T19:43:17 PST" name="createBookingPOJOTest" finished-at="2024-01-28T19:43:19 PST" duration-ms="1415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingPOJOTest -->
+      </class> <!-- com.herokuapp.restfulbooker.createBookingTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
